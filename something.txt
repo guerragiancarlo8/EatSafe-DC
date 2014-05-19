@@ -1,0 +1,40 @@
+{'tel': '(706) 678-6783', 'name': 'Cravco', 'locality': 'Washington', 'price': 2, 'longitude': -82.717703, u'address': '1024 E Robert Toombs Ave', 'latitude': 33.727842}, 
+
+{'tel': '(202) 939-0836', 'name': 'Blue Nile Cafe and Market', 'locality': u'Washington', u'longitude': -77.020146, u'address': u'600 Florida Ave NW', u'latitude': 38.915467}, 
+
+{'website': u'http://edgewoodcarryoutdeli.ambz.com', u'tel': u'(202) 269-4777', u'name': u'Edgewood Carry Out and Deli', u'locality': u'Washington', u'price': 1, u'longitude': -77.000698, u'address': u'2314 4th St NE', u'latitude': 38.920698},
+ 
+
+{'tel': u'(252) 940-4688', u'name': u"Jalapeno's Mexican Grill", u'locality': u'Washington', u'longitude': -77.020177, u'address': u'712 River Rd', u'latitude': 35.532172}, 
+
+{'website': u'http://www.cafephillips.com', u'tel': u'(202) 898-2057', u'name': u'Cafe Phillips', u'locality': u'Washington', u'price': 1, u'longitude': -77.006307, u'address': u'77 K St NE', u'latitude': 38.902347},
+
+{'website': u'http://www.subway.com', u'tel': u'(202) 885-6319', u'name': u'Subway', u'locality': u'Washington', u'price': 1, u'longitude': -77.087289, u'address': u'4400 Massachusetts Ave NW', u'latitude': 38.93628},
+
+ {'tel': u'(202) 342-9083', u'name': u'Senses Bakery and Restaurant', u'locality': u'Washington', u'longitude': -77.063274, u'address': u'3206 Grace St NW', u'latitude': 38.903875}, 
+
+{'website': u'http://www.johnnyrockets.com', u'tel': u'(202) 289-6969', u'name': u'Johnny Rockets', u'locality': u'Washington', u'price': 1, u'longitude': -77.006437, u'address': u'50 Massachusetts Ave NE', u'latitude': 38.896933}, 
+
+{'website': u'http://www.chadwicksrestaurants.com', u'tel': u'(202) 333-2565', u'name': u'Chadwicks', u'locality': u'Washington', u'price': 2, u'longitude': -77.062967, u'address': u'3205 K St NW', u'latitude': 38.902703}, 
+
+{'website': u'http://www.levantes.com', u'tel': u'(202) 293-6301', u'name': u"Levante's", u'locality': u'Washington', u'price': 2, u'longitude': -77.043622, u'address': u'1320 19th St NW', u'latitude': 38.908051},
+
+{'tel': u'(202) 333-8555', u'name': u'Philly Pizza', u'locality': u'Washington', u'longitude': -77.067923, u'address': u'1204 34th St NW', u'latitude': 38.905329}, 
+
+{'website': u'http://www.yosushi.com', u'tel': u'(202) 408-1716', u'name': u'Yo! Sushi', u'locality': u'Washington', u'price': 2, u'longitude': -77.006717, u'address': u'50 Massachusetts Ave NE', u'latitude': 38.897255}, 
+
+{'website': u'http://www.mcdonalds.com', u'tel': u'(202) 737-2092', u'name': u"McDonald's", u'locality': u'Washington', u'price': 1, u'longitude': -77.021927, u'address': u'601 F St NW', u'latitude': 38.898627}, 
+
+{'tel': u'(309) 694-2193', u'name': u'Castaways Bar and Grill', u'locality': u'Washington', u'longitude': -89.501021, u'address': u'2464 Washington Rd', u'latitude': 40.690422}, 
+
+{'website': u'http://www.jps207.com', u'tel': u'(319) 458-9181', u'name': u"JP's 207", u'locality': u'Washington', u'price': 2, u'longitude': -91.693121, u'address': u'207 W Main St', u'latitude': 41.299421}, 
+
+{'website': u'http://www.lepetitbistro.com', u'tel': u'(202) 371-1233', u'name': u'Le Petit Bistro', u'locality': u'Washington', u'price': 3, u'longitude': -77.011237, u'address': u'50 Massachusetts Ave NE', u'latitude': 38.89831}, 
+
+{'website': u'http://www.fusionsteakhouse.com', u'tel': u'(724) 225-2328', u'name': u'Fusion Japanese Steak House', u'locality': u'Washington', u'price': 2, u'longitude': -80.215623, u'address': u'5 Trinity Point Dr', u'latitude': 40.18748}, 
+
+{'website': u'http://www.ledopizza.com', u'tel': u'(202) 342-0091', u'name': u'Ledo Pizza', u'locality': u'Washington', u'price': 1, u'longitude': -77.066923, u'address': u'1721 Wisconsin Ave NW', u'latitude': 38.914252}, 
+
+{'website': u'http://www.corduroyrestaurant.com', u'tel': u'(202) 589-0699', u'name': u'Corduroy', u'locality': u'Washington', u'price': 2, u'longitude': -77.028318, u'address': u'1201 K St NW', u'latitude': 38.902674},
+
+{'website': u'http://www.sovadc.com', u'tel': u'(202) 397-3080', u'name': u'Sova', u'locality': u'Washington', u'price': 1, u'longitude': -76.986393, u'address': u'1359 H St NE', u'latitude': 38.900032}

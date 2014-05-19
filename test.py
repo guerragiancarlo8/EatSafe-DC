@@ -1,0 +1,22 @@
+#!/usr/bin/python
+
+from factual import Factual
+
+KEY = "b8l2aLMVJUhmUE68qxp9QeCtHqjrPokyi2mPamvU"
+SECRET = "yT3vk8wIqaFDLu4sYVuEwxV6UwkSm5w7wVETRZmh"
+
+def main():
+
+	factual = Factual(KEY, SECRET)
+
+	table = factual.table('restaurants')
+
+	q1= table.filters({"locality":"washington"})
+
+	q2= q1.select("name, address, tel, website")
+
+
+	print q2.data()
+
+if __name__ == '__main__':
+	main()

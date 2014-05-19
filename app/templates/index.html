@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<title> Home - Welcome to EatSafe DC </title>
+	<link type = text/css rel = stylesheet href ="{{ url_for('static', filename = 'index.css') }}">
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script type= text/javascript src="{{ url_for('static', filename='index.js') }}"></script>
+
+</head>
+
+<body>
+	<div id = "title">
+		<a href = "#container"><div id = "encapsule">
+			<h2> EatSafe DC </h2>
+			<p> Don't let genetics stop you from enjoying the finer things in life. </p>
+			<p id = "click"> Click to get started! </p>
+		</div></a>
+	</div>
+	
+
+	<div id = "container" class = "side">
+
+		<form action = "/" id = "options" class = "site" method = "post">
+			<fieldset>
+				<legend>Quick question. What can't you eat? Check whatever applies!</legend>
+					 Shellfish: <input  type="checkbox" name = "shell" value={{false}}><br>
+					 Nuts: <input  type="checkbox" name = "nuts" value={{false}}><br>
+					 Dairy: <input  type="checkbox" name = "dairy" value = {{false}}><br>
+			</fieldset> 
+			<input id = "button" type = "submit" value = "Search">
+		</form>
+	
+		
+
+		
+
+		<div id = "map">
+			<div id = "info">
+				<p> {{rest.name}} </p>
+				<p> Phone Number: {{rest.Phone}} </p>
+				<p> Website: {{rest.website}} </p>
+
+			</div>
+			<iframe
+			  width="500"
+			  height="350"
+			  frameborder="0" style="border:0"
+			  src={{rest.url}}>
+
+			</iframe>
+		</div>
+
+	   
+   </div>
+
+    
+
+	
+
+
+</body>
+
+</html>

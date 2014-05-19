@@ -1,0 +1,147 @@
+#info{
+    color:white;
+}
+
+#instructions{
+    color:white;
+}
+
+
+
+#encapsule{
+    border-radius:5%;
+    background-color:#333333;
+    width:30%;
+    height:10%;
+    margin-left:10%;
+    padding:2%;
+    margin-top:10%;
+
+}
+
+#encapsule p{
+    color:white;
+    font-family:Helvetica;
+}
+
+#encapsule h2{
+    color:white;
+    font-family:Helvetica;
+}
+
+body{
+    background-image:url("title.jpg");
+}
+
+
+
+
+#container{
+    background-color:#333333;
+    margin-top:25%;
+    width:100%;
+    height:500px;
+    font-family:Helvetica;
+   
+}
+
+.site{
+    font-family:Helvetica;
+    margin-right:auto;
+    margin-left:auto;
+    padding:20px;
+    float:left;
+    clear:both;
+
+}
+
+
+    
+
+
+
+#row{
+    display:inline-block;
+}
+
+.larger
+{
+    width: 100px;
+    height: 100px;
+}
+
+#map{
+    
+    margin-left:50%;
+    margin-top:-2%;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:none;
+
+}
+
+a:visited{
+    text-decoration:none;
+}
+
+
+#button {
+    -moz-box-shadow:inset 0px 1px 0px 0px #bee2f9;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #bee2f9;
+    box-shadow:inset 0px 1px 0px 0px #bee2f9;
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, white), color-stop(1, #468ccf) );
+    background:-moz-linear-gradient( center top, white 5%, #468ccf 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#63b8ee', endColorstr='#468ccf');
+    background-color:white;
+    -webkit-border-top-left-radius:0px;
+    -moz-border-radius-topleft:0px;
+    border-top-left-radius:0px;
+    -webkit-border-top-right-radius:0px;
+    -moz-border-radius-topright:0px;
+    border-top-right-radius:0px;
+    -webkit-border-bottom-right-radius:0px;
+    -moz-border-radius-bottomright:0px;
+    border-bottom-right-radius:0px;
+    -webkit-border-bottom-left-radius:0px;
+    -moz-border-radius-bottomleft:0px;
+    border-bottom-left-radius:0px;
+    text-indent:2.62px;
+    border:1px solid #3866a3;
+    display:inline-block;
+    color:#14396a;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    font-style:normal;
+    height:65px;
+    line-height:65px;
+    width:179px;
+    text-decoration:none;
+    text-align:center;
+    text-shadow:1px 0px 0px #1b232b;
+}
+.#button:hover {
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #468ccf), color-stop(1, #63b8ee) );
+    background:-moz-linear-gradient( center top, #468ccf 5%, #63b8ee 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#468ccf', endColorstr='#63b8ee');
+    background-color:#468ccf;
+}.#button:active {
+    position:relative;
+    top:1px;
+}
+
+fieldset{
+    margin-bottom:15%;
+    font-size:18px;
+    color:white;
+    background-image:url("gtown.jpg");
+}
+
+fieldset input{
+    margin-bottom:10%;
+}
