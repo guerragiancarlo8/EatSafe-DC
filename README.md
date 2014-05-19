@@ -11,3 +11,5 @@ Some notes:
 
 1. The documentation was made with the assumption that the user is either utilizing linux ubuntu(any version). Currently working on some windows
 and MacOS documentation. 
+
+2. Please disregard step 1. Instead, just clone this repository into your desktop(for ease) and call it eatsafedc(also for ease). 
